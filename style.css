@@ -1,0 +1,29 @@
+/* Body styles */
+body {
+	font: 'Raleway', sans-serif; /* Font and font-family */
+    color: rgba(0,0,0,.5); /* Text color with opacity */
+    text-align: center; /* Center-align text */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: .4em; /* Adjust letter spacing */
+    top: 15%; /* Position from top */
+	background: linear-gradient(to right, red , yellow); /* Gradient background */
+}
+
+/* Header styles */
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif; /* Font, font-size, and font-family */
+    color: rgba(0,0,0,.5); /* Text color with opacity */
+    text-align: center; /* Center-align text */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: .4em; /* Adjust letter spacing */
+    width: 100%; /* Full width */
+}
+
+/* Subheader styles */
+h3 {
+	font: 900 1em 'Raleway', sans-serif; /* Font, font-size, and font-family */
+    color: rgba(0,0,0,.5); /* Text color with opacity */
+    text-align: center; /* Center-align text */
+    text-transform: none; /* Reset text transformation */
+    letter-spacing: 0.01em; /* Adjust letter spacing */
+}
